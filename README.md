@@ -1,4 +1,4 @@
-# Feedback for WordNote
+# WordNote Feedback
 
 If you've got any feedback or questions about [WordNote][WordNote-website], please [create an issue][create-issue].
 
